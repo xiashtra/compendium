@@ -1,3 +1,55 @@
+- date: 2023-09-25
+  updates:
+    - "Added more PotD 31-49 wall traps, courtesy of vaxherd"
+- date: 2023-09-11
+  updates:
+    - "Added more PotD 21-29 wall traps, courtesy of vaxherd"
+- date: 2023-08-29
+  updates:
+    - "Added enemy ratings and notes for SMN for PoTD 150-200, courtesy of
+    cornunut (Discord)"
+- date: 2023-08-28
+  updates:
+    - "Added more PotD 1-19 and 31-49 wall traps, courtesy of vaxherd"
+- date: 2023-08-26
+  updates:
+    - "Correction: PotD 11+ can have up to 3 (not 2) enchantments"
+- date: 2023-08-09
+  updates:
+    - "Orthosystem α is vulnerable to slow (requires witching to apply via
+    Arm's Length)"
+    - "Updated several PotD and EO kill times for MCH"
+    - "Added EO 70 strength-only kill time for MCH, courtesy of Crud Bonemeal
+    (Discord: crud_bonemeal)"
+- date: 2023-07-24
+  updates:
+    - "Updated several HoH boss kill times for MCH"
+    - "Bind and heavy vulnerabilities for all HoH 81-99 enemies"
+- date: 2023-07-07
+  updates:
+    - "Correction: Halls of Fallacies *can* have traps on the walls"
+    - "Correction: Cairn of Raising requires more kills on average than Cairn
+    of Passage"
+    - "Added tip on using transformation traps to undo earlier transformations"
+    - "Added general tips for SGE and WHM"
+    - "Above changes courtesy of vaxherd"
+- date: 2023-07-05
+  updates:
+    - "Added EO info and corrected required food/tincture levels on
+    Preparation page"
+    - "Added note to Preparation page that Echo Drops share a cooldown timer
+    with regen potions"
+    - "Added potency for Orthoiron Corse's Catapult"
+    - "Above changes courtesy of vaxherd"
+- date: 2023-06-22
+  updates:
+    - "Added Hyper-potion info to Preparation page"
+    - "Marked Heavenly Dodo as a patrol"
+    - "Heavenly Sekiban's Trembling Epigraph can be interrupted"
+    - "Status vulnerabilities for HoH 91+ Araragi and Ryujin"
+    - "Updated several HoH boss kill times for MCH"
+    - "Added another PotD floor 50 kill time for PLD, courtesy of
+    RedCrushedEyes (Discord)"
 - date: 2023-05-11
   updates:
     - "Added a few status vulnerabilities for HoH 81-100 enemies, courtesy of
