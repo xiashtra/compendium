@@ -1,3 +1,9 @@
+- date: 2024-02-20
+  updates:
+    - "Corrected Deep Palace Demon's Charybdis (90% of *max* HP, not current)"
+- date: 2024-02-15
+  updates:
+    - "Added a few more pomander tips, courtesy of Artin"
 - date: 2024-02-12
   updates:
     - "Added boss notes and timings for several PotD bosses, courtesy of Flae"
