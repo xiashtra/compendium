@@ -20,17 +20,18 @@ abilities:
     potency: 1200
     type: Physical
     description: 'pointblank AoE with late telegraph; inflicts stun (4s) and
-    knockback - get away'
+    knockback - get away. Fully blocking the damage also blocks the stun and
+    knockback'
     warning: pointblank
-  - name: 'Barrelling Smash (?)'
+  - name: 'Barreling Smash'
     potency: 150
     type: Physical
     description: 'instant charge attack; used immediately after Scythe Tail if
-    it hits'
+    it hits (and is not fully blocked)'
   - name: 'Ripper Claw (?)'
     potency: 500
     type: Physical
-    description: 'instant; used immediately after Barrelling Smash'
+    description: 'instant; used immediately after Barreling Smash'
 job_specifics:
   SGE:
     notes:

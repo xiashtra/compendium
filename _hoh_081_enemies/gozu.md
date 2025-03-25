@@ -26,14 +26,16 @@ abilities:
     away!'
     warning: gaze
   - name: 'Devour'
-    potency: n/a
-    description: 'instant death; only used if you''ve been turned into a pig'
+    potency: 100% of max HP
+    description: "instant death; only used if you've been turned into a pig.
+    Also grants a stacking damage up buff (1m)"
 job_specifics:
   DRK:
     difficulty: Easy
-    notes: 'A good time to use TBN is right after his second ability use (he
-    will usually do 11-tonze Swipe followed by Hex, but sometimes it''s
-    reversed)'
+    notes:
+     - 'A good time to use TBN is right after his second ability use (he
+      will usually do 11-tonze Swipe followed by Hex, but sometimes it''s
+      reversed)'
   GNB:
     difficulty: Easy
   MCH:

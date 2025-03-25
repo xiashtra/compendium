@@ -4,7 +4,7 @@ nickname: Jinba
 family: Centaur
 image: jinba.png
 start_floor: 94
-end_floor: 96
+end_floor: 97
 agro: Sight
 hp: 70086
 attack_damage: 6322
@@ -27,7 +27,7 @@ abilities:
   - name: 'Allagan Meteor'
     description: 'huge circle AoE; Impact location is snapshotted on player position near start of cast. Can LoS.'
     warning: other
-  - name: '?'
+  - name: 'Berserk'
     description: 'grants stacking damage up to self (5% per stack, permanent)'
 job_specifics:
   MCH:
