@@ -1,3 +1,24 @@
+- date: 2025-07-04
+  updates:
+    - "Correction: all mimics in EO can be slowed. Courtesy of Rin Massuru"
+- date: 2025-05-12
+  updates:
+    - "Added RPR notes for some PotD 171-199 enemies"
+    - "Added NIN notes for more HoH 91-99 enemies"
+    - "Added more HoH boss kill times and notes for NIN"
+    - "Added more PotD boss kill times and note for RPR"
+    - "Above changes courtesy of Disneyland Uk"
+- date: 2025-05-03
+  updates:
+    - "Added NIN notes for some HoH 91-99 enemies"
+    - "Added HoH boss kill times for NIN"
+    - "Added PotD boss kill times for RPR"
+    - "PotD 90 correction: Hypothermal Combustion is used by Giddy Bombs"
+    - "Above changes courtesy of Disneyland Uk"
+- date: 2025-04-10
+  updates:
+    - "Corrected Servomechanical Minotaur 16's Octuple Swipes order, courtesy
+    of k-97"
 - date: 2025-03-17
   updates:
     - "Added missing warning icon for Ryukotsu's out of combat ability"
