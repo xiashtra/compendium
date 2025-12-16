@@ -1,3 +1,107 @@
+- date: 2025-11-26
+  updates:
+    - "Completed vulnerabilities for PT 71-90 enemies"
+    - "Added heavy, bind, and slow vulnerabilities for some PT 91-100 enemies"
+- date: 2025-11-23
+  updates:
+    - "Heavenly Jaki also appears on HoH floors 96-97, courtesy of Hikari
+      Kali'fe"
+- date: 2025-11-22
+  updates:
+    - "Completed vulnerabilities for PT 21-70 enemies"
+    - "Added slow vulnerabilities for some PT 71-80 enemies"
+- date: 2025-11-19
+  updates:
+    - "Heavenly Okami also appears on HoH floor 75, courtesy of Hikari Kali'fe"
+- date: 2025-11-18
+  updates:
+    - "Added more heavy, bind, and slow vulnerabilities for PT 1-70 enemies"
+- date: 2025-11-17
+  updates:
+    - "Added more PT enemy ability and vulnerability data, courtesy of vaxherd"
+- date: 2025-11-07
+  updates:
+    - "Removed difficulty column from PT enemy list"
+    - "Added heavy, bind, and slow vulnerabilities for PT 11-30 enemies"
+- date: 2025-11-06
+  updates:
+    - "Added heavy, bind, and slow vulnerabilities for PT 1-10 enemies"
+- date: 2025-11-05
+  updates:
+    - "Added heavy and bind vulnerabilities for more PT enemies"
+- date: 2025-11-01
+  updates:
+    - "Added heavy and bind vulnerabilities for more PT 71-90 enemies"
+- date: 2025-10-31
+  updates:
+    - "Added boss and enemy images for PT floors 81-100, courtesy of Doctor
+      Agon"
+    - "Added heavy vulnerabilities for some PT 71-90 enemies"
+- date: 2025-10-30
+  updates:
+    - "Clarified trigger condition for PT Succubus's Pyretic and other PT 81+
+      fixes, courtesy of vaxherd"
+- date: 2025-10-27
+  updates:
+    - "Added more PT floor 61-80 enemy data and WHM boss timers"
+    - "Clarified aetherpool rewards and bronze chest contents per PT floorset"
+    - "Above changes courtesy of vaxherd"
+- date: 2025-10-26
+  updates:
+    - "Added PT floor 81-99 enemy data and WHM boss timers"
+    - "Added tip for finding floor 60 boss safe spot"
+    - "Above changes courtesy of vaxherd"
+    - "Added PT floor 61-70 enemy and boss info, courtesy of Aggressive Bread"
+- date: 2025-10-23
+  updates:
+    - "Added PT floor 31-60 enemy data and WHM boss timers, courtesy of
+      vaxherd"
+    - "Added PT floor 71-80 enemy abilities and boss info, courtesy of
+      Aggressive Bread"
+- date: 2025-10-20
+  updates:
+    - "Added PT floor 1-30 enemy data and WHM boss timers, courtesy of vaxherd"
+    - "Added some notes on contributing, courtesy of Artin"
+    - "PT mimics can be slowed, courtesy of Kat"
+    - "PT floor 90 boss kill time for WAR, courtesy of Kat"
+- date: 2025-10-19
+  updates:
+    - "Added PT floorset and enemy pages, courtesy of Artin"
+    - "Added additional PT enemy information for floors 1-10, courtesy of 
+      Aggressive Bread"
+    - "Added PT enemy floor ranges, courtesy of Doctor Agon"
+    - "Added boss and enemy images for PT floors 1-80, courtesy of Doctor Agon"
+- date: 2025-10-17
+  updates:
+    - "Added PT information to the Knowledge section"
+    - "Added max HP reduction ratios for transformation traps"
+    - "Sprint Penalty only appears in PotD"
+    - "Lost Goblin can also appear on PotD floor 3"
+    - "Above changes courtesy of vaxherd"
+- date: 2025-10-10
+  updates:
+    - "Added PT information to the Preparation, Pomanders, and Resources
+      sections"
+    - "Added Finh Bezahl's stream and scoring guide to the Resources page"
+    - "Above changes courtesy of Artin"
+- date: 2025-10-05
+  updates:
+    - "Orthos Ice Sprite doesn't explode if petrified"
+    - "Added another PotD 190 boss kill time for WAR"
+    - "Above updates courtesy of Kronkleberry"
+    - "Added WHM tip for HoH 10 boss, courtesy of Maccy"
+    - "Deep Palace Knight can be stunned, courtesy of Aqua Kot"
+- date: 2025-08-18
+  updates:
+    - "Added more information on mob kill count and key unlock"
+    - "Corrected kill count ranges for PotD 101-149/191+ and HoH/EO 51-69/91+"
+    - "Noted additional PotD enemy abilities which target random players"
+    - "Confirmed PotD 191+ Keeper's Vengeful Soul potency"
+    - "Added auto-attack damage values for EO 91+ Fitter and dread beasts"
+    - "Added/clarified EO boss ability and rotation details"
+    - "Updated EO boss kill times for 7.3 SGE"
+    - "Updated EO floor 100 running time to account for Jog buff"
+    - "Above changes courtesy of vaxherd"
 - date: 2025-07-04
   updates:
     - "Correction: all mimics in EO can be slowed. Courtesy of Rin Massuru"

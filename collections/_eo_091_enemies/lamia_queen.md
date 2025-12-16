@@ -6,6 +6,7 @@ start_floor: 91
 end_floor: 98
 agro: Sight
 extreme_hp: 1400000
+extreme_attack_damage: 97000
 attack_type: Physical
 vulnerabilities:
   bind: unknown
@@ -27,7 +28,7 @@ abilities:
   - name: "Petrifaction"
     potency: n/a
     description: "huge 360 degree gaze inflicting stone curse (1m); also
-    affects enemies. Used every 30 seconds when under 90% health"
+    affects enemies. Used every 30 seconds when below 90% HP"
 notes:
   - Dread beast
   - "Immune to knockback, which means it will not die to the Rotosmash ability
